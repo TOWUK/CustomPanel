@@ -1,0 +1,8 @@
+{
+  "displayName": "CustomPanel",
+  "name": "CustomPanel",
+  "author": "TOWUK",
+  "main": "CustomPanel",
+  "description": "Панель слева вверху.",
+  "version": "1.0"
+}
